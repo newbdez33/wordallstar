@@ -8,4 +8,4 @@ step by step to do things.
 
 = Details =
 
-  * 功能列表
+  * 讨论功能列表
